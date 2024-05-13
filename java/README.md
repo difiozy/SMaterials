@@ -12,3 +12,6 @@
 - https://www.youtube.com/watch?v=q2wtSR3kD_I
 - https://www.youtube.com/watch?v=8pMfUopQ9Es
 - https://www.youtube.com/watch?v=SZFe3m1DV1A
+
+## Spring security
+- JWT https://habr.com/ru/articles/784508/
